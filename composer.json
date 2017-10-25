@@ -1,0 +1,12 @@
+{
+    "name": "leopard/faster-create-slim-3",
+    "description": "Let's you create slim 3 quickly",
+    "authors": [
+        {
+            "name": "Daniel Wong",
+            "email": "zhenxun_9119@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
